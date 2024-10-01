@@ -20,7 +20,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
 
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = 'Ló phải thế !! Luv Ngân =))))';
+    document.getElementById('messageContainer').innerHTML = 'Ló phải thế !! Luv Thuy Anh =))))';
 
 
     setTimeout(function() {
